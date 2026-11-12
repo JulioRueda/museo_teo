@@ -1,0 +1,10 @@
+{
+  "name": "museo-de-lo-efimero",
+  "version": "1.0.0",
+  "description": "Landing page del Museo de lo Efímero",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
