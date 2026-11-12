@@ -93,7 +93,7 @@ const CONTACT_EMAIL = "contacto@museodelefimero.pe";
       opacity: 0, y: 28, filter: "blur(14px)", duration: 1.6, stagger: 0.22,
     }, 0.4)
     .from(".hero-lead", { opacity: 0, y: 16, duration: 1.1 }, 1.5)
-    .from(".hero-actions .btn", { opacity: 0, y: 14, duration: 0.9, stagger: 0.12 }, 1.8)
+    .from(".hero-actions .btn", { opacity: 0, duration: 0.9, stagger: 0.12 }, 1.8)
     .from(".hero-hint", { opacity: 0, duration: 1.2 }, 2.4);
 
   /* ---------- Hero: las manchas de color flotan despacio ---------- */
